@@ -2,13 +2,12 @@
 
   - Patron de diseño MVVM
   - Lenguaje Kotlin
+  - Unit Testing
 
 # Dependencias utilizadas
 
 - Dagger2
-- Kotlin
 - RxJava
 - Mockito
 - Retrofit
 - Glide
-- Unit Testing
