@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Curso Kotlin</string>
+    <string name="ocurrio_un_error_al_recibir_la_informacion">Ocurrio un Error al recibir la informacion</string>
+</resources>
